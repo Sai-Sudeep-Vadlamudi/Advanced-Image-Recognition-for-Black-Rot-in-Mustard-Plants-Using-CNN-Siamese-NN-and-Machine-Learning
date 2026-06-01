@@ -5,6 +5,7 @@
 
 This repository presents a **comparative computer vision and machine learning framework** for the automated diagnosis of **Bacterial Blight / Black Rot in mustard plants**, a high-impact agricultural disease caused by *Xanthomonas campestris* pv. *campestris* (**Xcc**).
 
+
 The project is designed as a **multi-model experimental research pipeline** that evaluates how different algorithmic paradigms perform on the same disease-classification task. Rather than treating plant disease detection as a one-model demonstration, this work benchmarks a portfolio of **deep learning, similarity-based representation learning, and classical machine learning models** for binary image recognition of **healthy vs infected mustard plant imagery**.
 
 At a high level, the system integrates:
