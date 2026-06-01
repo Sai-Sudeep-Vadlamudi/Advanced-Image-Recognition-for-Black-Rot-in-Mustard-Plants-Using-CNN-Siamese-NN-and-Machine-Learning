@@ -20,6 +20,7 @@ The result is a **research-oriented agricultural AI workflow** that combines ima
 
 ---
 
+
 ## Executive Overview
 
 Accurate and timely detection of Bacterial Blight / Black Rot is essential for reducing crop loss, improving agricultural productivity, and enabling more proactive disease management strategies. Traditional diagnosis often depends on subjective visual inspection, which can be labor-intensive, inconsistent, and difficult to scale.
